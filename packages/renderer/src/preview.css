@@ -1,0 +1,13 @@
+.preview.markdown-body {
+  width: 100%;
+  padding: 10px;
+  overflow: auto;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.preview.markdown-body pre div {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
